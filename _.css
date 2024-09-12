@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(Front_ii.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+label{
+    background-image: url(Front_iii.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius:10px;
+}
+
+Nav{
+    background-color: #880ef3;
+}
+nav li {
+    display: inline-block;
+}
+nav li a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+}
+nav li a:hover {
+    background-color: #880ef3;
+}
+
+.dropdown-menu{
+    position: absolute;
+    box-shadow: 0 0 2px#00bbff;
+    display:none;
+}
+.dropdown-menu a{
+    display: block;
+    color:rgb(0, 0, 0);
+}
+.dropdown:hover .dropdown-menu{
+    display: block;
+}

@@ -1,0 +1,12 @@
+body{
+    background-image: url(Front_v.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+label{
+    background-image: url(Front_iv.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}

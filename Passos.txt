@@ -1,0 +1,29 @@
+1 - Criar Pastas dentro do Diretório do Servidor
+    - Ligar Servidor Xampp: MySQL & Apache
+    
+2 - Montar o Banco de Dados
+    - Criar o banco de dados utilizando o MySQL.
+    - Contendo: Id,Nome,Sobrenome,Ano de Nascimento,PalavraPasse,Idade,Estado,Cidade.
+    - Id vira Chave Primaria para cada Usuario do Banco.
+
+3 - Montar Front End Basico Para Cada CRUD
+    - Criar determinados arquivos em html.
+    - Antes Crie uma Conexão com O Banco.
+    - sendo eles o CREATE,READ,UPDATE,DELETE.
+
+4 - Verificar todas as funcionalidades do Crud montado em PHP
+    - Verificar Conexão com o Banco.
+    - Verificar Inserção de Dados no Banco.
+    - Verificar Consulta de Dados no Banco.
+    - Verificar Alteração de Dados no Banco.
+    - Verificar Deletamento de Dados no Banco.
+
+5 - Automatizar em python
+    - Utilizar das Bibliotecas  Pyautogui e Pandas 
+    - Para Processos de:
+        - Automatização
+        - Criação de Quadro de Dados Especializados para 
+        Concatenação em Automatização
+        - Manipulação de Dados
+        - Analise de dados
+    - Utilizando em Implementação com OOP
